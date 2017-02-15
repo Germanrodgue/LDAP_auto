@@ -1,0 +1,6 @@
+ip:192.168.10.1
+domini:soxgerman.com
+grups:alumnes,profes
+alumnes:German,GermanQ
+profes:juan,enrique
+
